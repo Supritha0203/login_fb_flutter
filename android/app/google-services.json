@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601345680928",
+    "project_id": "first-flutter-b5dad",
+    "storage_bucket": "first-flutter-b5dad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601345680928:android:e886e2d51127ac00a47e45",
+        "android_client_info": {
+          "package_name": "com.example.login_fb_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601345680928-2ufaggslsdk0jbmnb8f6mto05aim785h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCToukyaAPISvGz6fL1zAfXaTkZi17skxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601345680928-2ufaggslsdk0jbmnb8f6mto05aim785h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
